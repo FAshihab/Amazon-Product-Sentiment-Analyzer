@@ -17,8 +17,8 @@ The application processes data through a structured pipeline to ensure accurate 
 ---
 
 ## Technical Stack
-**Language:** Python
-**Core AI Library:** TextBlob
-**Data Analysis:** Pandas
-**Visualization:** Matplotlib
-**NLP Utilities:** NLTK
+* **Language:** Python
+* **Core AI Library:** **TextBlob**
+* **Data Analysis:** **Pandas**
+* **Visualization:** **Matplotlib**
+* **NLP Utilities:** **NLTK**
