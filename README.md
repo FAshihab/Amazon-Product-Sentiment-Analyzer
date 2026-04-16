@@ -1,4 +1,4 @@
 # Amazon Sentiment Analyzer
 ------------------------------------------------------------------------------------------------------------------------
-**# Project Description**
+** Project Description**
 Exploring how an AI-based sentiment analyzer can process Amazon product reviews and generate meaningful insights. The project focuses on reviews of unlocked mobile phones, a product category with a large amount of feedback. By analyzing these reviews, the system can support sellers and manufacturers by summarizing customer satisfaction, highlighting common concerns, and providing data-driven indications of overall product performance.
