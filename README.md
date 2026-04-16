@@ -6,7 +6,12 @@ This project was developed to streamline the analysis of customer opinions on on
 
 **How It Works**
 
-The application processes data through a structured pipeline to ensure accurate sentiment categorization:Function Implementation: A core sentimentAnalyzer(text) function was built using the TextBlob library to compute polarity scores for every review.Data Enrichment: The system adds new "Sentiment" and "Polarity" columns to the dataset, allowing for automated grouping and classification.Sample Extraction: The model uses groupby operations to extract representative examples from each sentiment category (Positive, Neutral, Negative) for accuracy evaluation.Stopwords Filtering: To isolate the root causes of negative feedback, the system removes common English stopwords (e.g., "the," "with") to focus on meaningful keywords.Visualization: Insights are presented through bar charts that illustrate the overall distribution of customer sentiments across the dataset.
+The application processes data through a structured pipeline to ensure accurate sentiment categorization:
+Function Implementation: A core sentimentAnalyzer(text) function was built using the TextBlob library to compute polarity scores for every review.
+Data Enrichment: The system adds new "Sentiment" and "Polarity" columns to the dataset, allowing for automated grouping and classification.
+Sample Extraction: The model uses groupby operations to extract representative examples from each sentiment category (Positive, Neutral, Negative) for accuracy evaluation.
+Stopwords Filtering: To isolate the root causes of negative feedback, the system removes common English stopwords (e.g., "the," "with") to focus on meaningful keywords.
+Visualization: Insights are presented through bar charts that illustrate the overall distribution of customer sentiments across the dataset.
 
 **Technical Stack**
 
