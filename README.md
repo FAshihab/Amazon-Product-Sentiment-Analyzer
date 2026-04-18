@@ -27,7 +27,7 @@ The application processes data through a structured pipeline to ensure accurate 
 
 ## Contributors
 This project was a collaborative effort by:
-* Fatima Ahmed Al Shihab \n
+* Fatima Ahmed Al Shihab 
 * Fedda Jafar Alsebea
 * Hessa Alturki
 * Maha Almansoori
