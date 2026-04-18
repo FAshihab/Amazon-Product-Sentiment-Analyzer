@@ -22,3 +22,12 @@ The application processes data through a structured pipeline to ensure accurate 
 * **Data Analysis:** **Pandas**
 * **Visualization:** **Matplotlib**
 * **NLP Utilities:** **NLTK**
+
+---
+
+## Contributors
+This project was a collaborative effort by:
+Fatima Ahmed Al Shihab
+Fedda Jafar Alsebea
+Hessa Alturki
+Maha Almansoori
